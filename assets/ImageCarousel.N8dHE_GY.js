@@ -1,1 +1,0 @@
-import{j as e}from"./jsx-runtime.CLpGMVip.js";import{C as s}from"./react-daisyui.modern.CYmsahd3.js";import"./index.D15Q2Owl.js";const i=r=>e.jsx(s,{display:"sequential",className:"rounded-box",children:r.images.map((a,o)=>e.jsx(s.Item,{src:a,children:"Hello"},o))});export{i as default};
