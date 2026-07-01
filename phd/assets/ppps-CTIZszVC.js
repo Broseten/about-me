@@ -1,1 +1,0 @@
-var e=`/phd/assets/ppps-B8H7-k4U.png`;export{e as t};

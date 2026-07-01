@@ -1,0 +1,1 @@
+var e=``+new URL(`ppps-B8H7-k4U.png`,import.meta.url).href;export{e as t};
